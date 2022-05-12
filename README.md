@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DKTOMZ
+- 👀 I’m interested in Mobile App development and Front End Development
+- 🌱 I’m currently learning FLutter and dart
+- 💞️ I’m looking to collaborate on flutter projects
+- 📫 How to reach me: deni.tomno@gmail.com
